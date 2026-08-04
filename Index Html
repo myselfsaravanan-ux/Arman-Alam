@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Prudent Solutions & Academia | GPSA</title>
+    <meta name="description" content="GPSA - Corporate Training, Spoken English, Hindi, Arabic, Soft Skills, Home Tuitions & Online Classes in Chennai. Since 2012.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <div class="logo">
+                <span class="logo-text">GPSA</span>
+                <span class="logo-sub">Since 2012</span>
+            </div>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-overlay"></div>
+        <div class="container hero-content">
+            <p class="hero-tag">Hindi Promoter Since 2012</p>
+            <h1>Global Prudent Solutions<br>& Academia</h1>
+            <p class="hero-subtitle">"GPSA" — The Trainer & Trader for the Corporate Worlds</p>
+            <p class="hero-motto">Get Set to Conquer your dreams......</p>
+            <div class="hero-buttons">
+                <a href="#contact" class="btn btn-primary">Contact Now</a>
+                <a href="#services" class="btn btn-outline">Our Services</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2 class="section-title">About Arman Alam</h2>
+            <div class="about-content">
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=80" alt="Professional Training">
+                </div>
+                <div class="about-text">
+                    <h3>Arman Alam</h3>
+                    <p class="qualification">MJMC., BBA. (Retail), DCA., DCS.</p>
+                    <p class="experience">Ex. Branch Manager — OSS Retails Pvt. Ltd., Chennai</p>
+                    <p>
+                        Founder of <strong>Global Prudent Solutions & Academia (GPSA)</strong>, 
+                        dedicated to empowering individuals and corporate professionals through 
+                        quality language training, soft skills development, and practical business education.
+                    </p>
+                    <p>
+                        With over a decade of experience since 2012, GPSA specializes in making 
+                        learning practical, result-oriented and career-focused.
+                    </p>
+                    <div class="about-stats">
+                        <div class="stat">
+                            <span class="stat-num">12+</span>
+                            <span class="stat-label">Years</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-num">3</span>
+                            <span class="stat-label">Languages</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-num">100%</span>
+                            <span class="stat-label">Practical</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2 class="section-title">Our Best Offered Services</h2>
+            <p class="section-subtitle">Corporate Training • Home Tuitions • Online Classes</p>
+
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&q=80" alt="Spoken English">
+                    </div>
+                    <div class="service-body">
+                        <h3>Spoken English</h3>
+                        <p>Normal & Business English with Voice & Accent Training for confidence and clarity.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&q=80" alt="Hindi Language">
+                    </div>
+                    <div class="service-body">
+                        <h3>Hindi Language</h3>
+                        <p>Effective Hindi speaking skills for personal, professional and promotional use.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&q=80" alt="Arabic Language">
+                    </div>
+                    <div class="service-body">
+                        <h3>Arabic Language</h3>
+                        <p>Practical Arabic training for communication and career opportunities.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&q=80" alt="Soft Skills">
+                    </div>
+                    <div class="service-body">
+                        <h3>Soft Skills</h3>
+                        <p>Personality Development, Interview Skills, Sales & Marketing Skills, Customer Service Skills.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=400&q=80" alt="Corporate Training">
+                    </div>
+                    <div class="service-body">
+                        <h3>Corporate Training</h3>
+                        <p>Customized training programs designed for corporate teams and professionals.</p>
+                    </div>
+                </div>
+
+                <div class="service-card">
+                    <div class="service-img">
+                        <img src="https://images.unsplash.com/photo-1588196740935-5dc545f390b4?w=400&q=80" alt="Online Classes">
+                    </div>
+                    <div class="service-body">
+                        <h3>Home Tuitions & Online</h3>
+                        <p>Flexible home tuitions and online classes to suit your schedule and convenience.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="products">
+        <div class="container">
+            <h2 class="section-title">Our Best Offered Products</h2>
+            <div class="products-grid">
+                <div class="product-card">
+                    <div class="product-img">
+                        <img src="https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&q=80" alt="Books">
+                    </div>
+                    <h3>Books</h3>
+                    <p>Quality educational and training books</p>
+                </div>
+                <div class="product-card">
+                    <div class="product-img">
+                        <img src="https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=400&q=80" alt="Stationery">
+                    </div>
+                    <h3>Stationery</h3>
+                    <p>Essential stationery for students & professionals</p>
+                </div>
+                <div class="product-card">
+                    <div class="product-img">
+                        <img src="https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80" alt="Bags">
+                    </div>
+                    <h3>Bags</h3>
+                    <p>Durable and stylish bags for daily use</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2 class="section-title">Get In Touch</h2>
+            <p class="section-subtitle">Ready to start your learning journey? Contact us today.</p>
+
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <span class="contact-label">Mobile</span>
+                        <a href="tel:+918056523227">+91 80565 23227</a>
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Email</span>
+                        <a href="mailto:armanalamadvisor@gmail.com">armanalamadvisor@gmail.com</a>
+                    </div>
+                    <div class="contact-item">
+                        <span class="contact-label">Address</span>
+                        <p>
+                            C/o - Kalaivani Education Centre<br>
+                            No.20/A, Ayyasamy Street,<br>
+                            West Tambaram, Chennai – 600 045
+                        </p>
+                    </div>
+                </div>
+
+                <div class="contact-actions">
+                    <a href="https://wa.me/918056523227" class="btn btn-whatsapp" target="_blank" rel="noopener">
+                        WhatsApp Now
+                    </a>
+                    <a href="tel:+918056523227" class="btn btn-primary">
+                        Call Now
+                    </a>
+                    <a href="mailto:armanalamadvisor@gmail.com" class="btn btn-outline-dark">
+                        Send Email
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p><strong>GLOBAL PRUDENT SOLUTIONS & ACADEMIA (GPSA)</strong></p>
+            <p>The Trainer & Trader for the Corporate Worlds</p>
+            <p class="footer-copy">© 2012–2026 GPSA. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
